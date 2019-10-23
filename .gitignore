@@ -1,0 +1,9 @@
+!*.c 
+!*.h
+   *.log
+   *.plg
+   *.dep
+   *.o
+   *.hex
+   *.htm
+   *.map
